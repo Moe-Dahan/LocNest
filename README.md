@@ -12,3 +12,6 @@ How To Use
 
 update I added head or body options also added a tkinter gui please note I have only been coding for 6 months now  
 if you have issues just let me know and I will try help you out if this helps you please leave me a star to help motivate me Thank You and Enjoy.
+
+This Video contains the testing process if you want to watch
+https://clipchamp.com/watch/SSsEvX4PCva
