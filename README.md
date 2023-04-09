@@ -6,7 +6,7 @@ How To Use
 
 1) Download folder 
 2) pip install -m requirements.txt (Make sure Python3.10 is installed not 3.11) 
-3) Run locnest.py file
+3) Run main.py file
 4) Select the Aim key of your choice you need to Press Aim Key for Aiming
 
 
